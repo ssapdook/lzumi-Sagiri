@@ -1,3 +1,0 @@
-<form action='login_page.php'>
-  <input type='button' value='클릭해보세요'/>
-</form>
